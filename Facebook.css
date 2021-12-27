@@ -113,7 +113,7 @@ button.create:hover{
     background: #2ba812;
 }
 
-@media (max-width: 670){
+@media (max-width: 770){
     .box{
         position: relative;
         display: flex;
